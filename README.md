@@ -20,7 +20,6 @@ A Streamlit web application for viewing and analyzing student pre and post test 
 
 1. **Open terminal/command prompt**
 
-2. **Navigate to the folder containing `student_viewer.py`**
 
 3. **Run the app:**
    ```bash
